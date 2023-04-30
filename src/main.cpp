@@ -5,10 +5,10 @@
 #define LED_PIN 2
 #define SPEAKER 4
 
-#define DEBUG
+//#define DEBUG
 //#define DEBUG_DATA_SENT
 //#define DEBUG_PKG
-#define DEBUG_INPUT
+//#define DEBUG_INPUT
 
 #define READ_PIN_A 18
 #define PULSE_PIN_A 19
